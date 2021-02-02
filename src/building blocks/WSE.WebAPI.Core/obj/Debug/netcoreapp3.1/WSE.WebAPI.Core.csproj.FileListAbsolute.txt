@@ -1,0 +1,9 @@
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.deps.json
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.dll
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.pdb
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csprojAssemblyReference.cache
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.AssemblyInfo.cs
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.dll
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.pdb

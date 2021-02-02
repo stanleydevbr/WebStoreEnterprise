@@ -1,0 +1,8 @@
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\bin\Debug\netcoreapp3.1\WSE.Core.deps.json
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\bin\Debug\netcoreapp3.1\WSE.Core.dll
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\bin\Debug\netcoreapp3.1\WSE.Core.pdb
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.AssemblyInfoInputs.cache
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.AssemblyInfo.cs
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.dll
+C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.pdb
