@@ -10,3 +10,15 @@ C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcore
 C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.csproj.CopyComplete
 C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.dll
 C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.pdb
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\bin\Debug\netcoreapp3.1\WSE.MessageBus.deps.json
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\bin\Debug\netcoreapp3.1\WSE.MessageBus.dll
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\bin\Debug\netcoreapp3.1\WSE.MessageBus.pdb
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\bin\Debug\netcoreapp3.1\WSE.Core.dll
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\bin\Debug\netcoreapp3.1\WSE.Core.pdb
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.csprojAssemblyReference.cache
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.AssemblyInfoInputs.cache
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.AssemblyInfo.cs
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.csproj.CopyComplete
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.dll
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.MessageBus\obj\Debug\netcoreapp3.1\WSE.MessageBus.pdb

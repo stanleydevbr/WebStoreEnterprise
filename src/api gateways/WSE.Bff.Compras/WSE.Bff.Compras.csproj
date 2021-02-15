@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>3a549e79-c75f-44c9-91b5-e7c37e79612c</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\building blocks\WSE.Core\WSE.Core.csproj" />
+    <ProjectReference Include="..\..\building blocks\WSE.MessageBus\WSE.MessageBus.csproj" />
+    <ProjectReference Include="..\..\building blocks\WSE.WebAPI.Core\WSE.WebAPI.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -3,6 +3,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using WSE.WebApp.MVC.Extensions;
+using WSE.WebApp.MVC.Models;
 
 namespace WSE.WebApp.MVC.Services
 {
@@ -43,6 +44,10 @@ namespace WSE.WebApp.MVC.Services
             response.EnsureSuccessStatusCode();
             return true;
         }
-    }
 
+        protected ResponseResult RetornoOk()
+        {
+            return new ResponseResult();
+        }
+    }
 }

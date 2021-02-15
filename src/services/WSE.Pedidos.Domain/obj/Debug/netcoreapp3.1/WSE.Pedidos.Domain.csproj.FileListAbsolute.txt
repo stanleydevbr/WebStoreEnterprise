@@ -1,0 +1,12 @@
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\WSE.Pedidos.Domain.deps.json
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\WSE.Pedidos.Domain.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\WSE.Pedidos.Domain.pdb
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\WSE.Core.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\WSE.Core.pdb
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.csprojAssemblyReference.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.AssemblyInfoInputs.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.AssemblyInfo.cs
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.csproj.CopyComplete
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\WSE.Pedidos.Domain.pdb

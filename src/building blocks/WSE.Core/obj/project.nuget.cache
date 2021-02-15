@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "DRy3GfMVdrlV5uefJwRPod29gQ5TAtPgFSx2Do7BoXJNkBXx2L2kxpWBC8HAUCnNKEL6Lt/Q8PqmA/eTqApkjw==",
+  "dgSpecHash": "m131Y0yC1tPQAZWbj/yfLwVAsmqHULRCVzx3p8ghZcQsuAzCYBo0mktJ4CGOxYXkeZXl2+CGDdoJXcqzeQKA4A==",
   "success": true,
-  "projectFilePath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
+  "projectFilePath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stanley.dias\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\stanley.dias\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
     "C:\\Users\\stanley.dias\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
   ],
   "logs": []

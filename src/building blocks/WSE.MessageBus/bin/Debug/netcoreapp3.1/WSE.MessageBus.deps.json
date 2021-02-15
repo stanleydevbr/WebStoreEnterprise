@@ -74,6 +74,18 @@
           }
         }
       },
+      "NetDevPack/1.1.0": {
+        "dependencies": {
+          "FluentValidation": "8.6.2",
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NetDevPack.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
@@ -108,6 +120,7 @@
           "FluentValidation": "8.6.2",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.4",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4",
+          "NetDevPack": "1.1.0",
           "MediatR": "8.0.1"
         },
         "runtime": {
@@ -163,6 +176,13 @@
       "sha512": "sha512-tLR9n5ltwA56nr1t5M6q5IBfGLXtMS+XgumtqVENmtPQOWUD+m0Kgo1U6GWr06Y875WUN3sOGnmqkvW4an7fYA==",
       "path": "microsoft.extensions.primitives/3.1.4",
       "hashPath": "microsoft.extensions.primitives.3.1.4.nupkg.sha512"
+    },
+    "NetDevPack/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pEeSxtDUKHC1mNwFHikn2WuArzgKYIQ/MLto5xrEKAZGc5MBUuTmFHeRtlwbm2dyU5RvT0Xe/chwRJt0ezN7bg==",
+      "path": "netdevpack/1.1.0",
+      "hashPath": "netdevpack.1.1.0.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",

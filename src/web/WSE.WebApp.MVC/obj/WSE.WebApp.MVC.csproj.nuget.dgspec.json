@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevBr\\WebStoryEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj": {}
+    "C:\\DevBr\\WebStoreEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj": {}
   },
   "projects": {
-    "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
+    "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
+        "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
         "projectName": "WSE.Core",
-        "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
+        "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
         "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\obj\\",
+        "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[3.1.4, )"
             },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "mediatr": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -75,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\DevBr\\WebStoryEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj": {
+    "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\WSE.WebAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevBr\\WebStoryEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj",
-        "projectName": "WSE.WebApp.MVC",
-        "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj",
+        "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\WSE.WebAPI.Core.csproj",
+        "projectName": "WSE.WebAPI.Core",
+        "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\WSE.WebAPI.Core.csproj",
         "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\DevBr\\WebStoryEnterprise\\src\\web\\WSE.WebApp.MVC\\obj\\",
+        "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,8 +110,89 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
-                "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj"
+              "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
+                "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\DevBr\\WebStoreEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj",
+        "projectName": "WSE.WebApp.MVC",
+        "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\web\\WSE.WebApp.MVC\\WSE.WebApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\web\\WSE.WebApp.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stanley.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
+                "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj"
+              },
+              "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\WSE.WebAPI.Core.csproj": {
+                "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.WebAPI.Core\\WSE.WebAPI.Core.csproj"
               }
             }
           }
@@ -132,7 +217,7 @@
             },
             "Microsoft.Extensions.Http.Polly": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.1.4, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -161,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4hKq4CT22xhYl4cBl2UAtGhJVf+WCff6G4uA8v8wdN31LWL7mC+/huAyv3aQo7hH3/Fr4t+5ab72SfgiAGxXA==",
+  "dgSpecHash": "3Qz7aXYFKNBVjTDKDlEKhfitNroIgr38BySNhvvZ7Jbh35Y2JLOaOAbgZtwOsryaDUdbv6qPNgvdZz4PHYHREg==",
   "success": true,
-  "projectFilePath": "C:\\DevBr\\WebStoryEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
+  "projectFilePath": "C:\\DevBr\\WebStoreEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

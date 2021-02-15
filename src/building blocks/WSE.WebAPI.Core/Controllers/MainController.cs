@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using System.Collections.Generic;
 using System.Linq;
+using WSE.Core.Communication;
 
 namespace WSE.WebAPI.Core.Controllers
 {
@@ -43,6 +44,25 @@ namespace WSE.WebAPI.Core.Controllers
             }
 
             return CustomResponse();
+        }
+
+        protected ActionResult CustomResponse(ResponseResult resposta)
+        {
+            ResponsePossuiErros(resposta);
+
+            return CustomResponse();
+        }
+
+        protected bool ResponsePossuiErros(ResponseResult resposta)
+        {
+            if (resposta == null || !resposta.Errors.Mensagens.Any()) return false;
+
+            foreach (var mensagem in resposta.Errors.Mensagens)
+            {
+                AdicionarErroProcessamento(mensagem);
+            }
+
+            return true;
         }
 
         protected bool OperacaoValida()

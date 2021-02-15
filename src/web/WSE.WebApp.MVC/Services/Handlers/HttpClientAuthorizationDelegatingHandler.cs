@@ -3,15 +3,15 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading;
 using System.Threading.Tasks;
-using WSE.WebApp.MVC.Extensions;
+using WSE.WebAPI.Core.Usuario;
 
 namespace WSE.WebApp.MVC.Services.Handlers
 {
     public class HttpClientAuthorizationDelegatingHandler : DelegatingHandler
     {
-        private readonly IUser _user;
+        private readonly IAspNetUser _user;
 
-        public HttpClientAuthorizationDelegatingHandler(IUser user)
+        public HttpClientAuthorizationDelegatingHandler(IAspNetUser user)
         {
             _user = user;
         }
@@ -35,5 +35,4 @@ namespace WSE.WebApp.MVC.Services.Handlers
             return base.SendAsync(request, cancellationToken);
         }
     }
-
 }

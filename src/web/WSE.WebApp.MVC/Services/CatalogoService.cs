@@ -8,6 +8,11 @@ using WSE.WebApp.MVC.Models;
 
 namespace WSE.WebApp.MVC.Services
 {
+    public interface ICatalogoService
+    {
+        Task<IEnumerable<ProdutoViewModel>> ObterTodos();
+        Task<ProdutoViewModel> ObterPorId(Guid id);
+    }
     public class CatalogoService : Service, ICatalogoService
     {
         private readonly HttpClient _httpClient;
@@ -38,5 +43,4 @@ namespace WSE.WebApp.MVC.Services
             return await DeserializarObjetoResponse<IEnumerable<ProdutoViewModel>>(response);
         }
     }
-
 }

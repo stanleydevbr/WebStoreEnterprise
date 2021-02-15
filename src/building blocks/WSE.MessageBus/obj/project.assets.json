@@ -66,6 +66,19 @@
           "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
         }
       },
+      "NetDevPack/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "8.6.2",
+          "mediatr": "8.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/NetDevPack.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NetDevPack.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
@@ -121,6 +134,7 @@
           "FluentValidation": "8.6.2",
           "Microsoft.Extensions.Configuration.Abstractions": "3.1.4",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4",
+          "NetDevPack": "1.1.0",
           "mediatr": "8.0.1"
         },
         "compile": {
@@ -229,6 +243,19 @@
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.3.1.4.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "NetDevPack/1.1.0": {
+      "sha512": "pEeSxtDUKHC1mNwFHikn2WuArzgKYIQ/MLto5xrEKAZGc5MBUuTmFHeRtlwbm2dyU5RvT0Xe/chwRJt0ezN7bg==",
+      "type": "package",
+      "path": "netdevpack/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "IconNuget.png",
+        "lib/netstandard2.0/NetDevPack.dll",
+        "netdevpack.1.1.0.nupkg.sha512",
+        "netdevpack.nuspec"
       ]
     },
     "Newtonsoft.Json/12.0.3": {
@@ -434,11 +461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.MessageBus\\WSE.MessageBus.csproj",
+      "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.MessageBus\\WSE.MessageBus.csproj",
       "projectName": "WSE.MessageBus",
-      "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.MessageBus\\WSE.MessageBus.csproj",
+      "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.MessageBus\\WSE.MessageBus.csproj",
       "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
-      "outputPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.MessageBus\\obj\\",
+      "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.MessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -458,8 +485,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
-              "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj"
+            "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
+              "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj"
             }
           }
         }
@@ -498,7 +525,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

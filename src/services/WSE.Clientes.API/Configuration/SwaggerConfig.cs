@@ -13,9 +13,9 @@ namespace WSE.Clientes.API.Configuration
             {
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
-                    Title = "NerdStore Enterprise Clientes API",
-                    Description = "Esta API faz parte do curso ASP.NET Core Enterprise Applications.",
-                    Contact = new OpenApiContact() { Name = "Eduardo Pires", Email = "contato@desenvolvedor.io" },
+                    Title = "WebStore Enterprise Clientes API",
+                    Description = "Esta API Faz parte do projeto Web Store Enterprise Applications",
+                    Contact = new OpenApiContact() { Name = "Stanley Dias Paulo", Email = "stanley.dias.paulo@gmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
                 });
 

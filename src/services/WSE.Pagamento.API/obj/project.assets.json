@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DevBr\\WebStoryEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
+      "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
       "projectName": "WSE.Pagamento.API",
-      "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
+      "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\services\\WSE.Pagamento.API\\WSE.Pagamento.API.csproj",
       "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
-      "outputPath": "C:\\DevBr\\WebStoryEnterprise\\src\\services\\WSE.Pagamento.API\\obj\\",
+      "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\services\\WSE.Pagamento.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -148,7 +148,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

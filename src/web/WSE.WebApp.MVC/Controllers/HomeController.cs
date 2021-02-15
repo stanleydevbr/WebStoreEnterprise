@@ -51,6 +51,4 @@ namespace WSE.WebApp.MVC.Controllers
             return View("Error", modelErro);
         }
     }
-
-
 }

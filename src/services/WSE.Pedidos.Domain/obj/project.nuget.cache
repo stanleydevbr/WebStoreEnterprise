@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxZCcWJS0Iwjil0As9FQRubUw8LZ1BS/X7pqRIYRogjlVjUDjrxnZwBwXQ/sfvtlfpRM+5ZGUiKAPwZnQVTKxA==",
+  "success": true,
+  "projectFilePath": "C:\\DevBr\\WebStoreEnterprise\\src\\services\\WSE.Pedidos.Domain\\WSE.Pedidos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\stanley.dias\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

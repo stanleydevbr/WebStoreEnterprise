@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WSE.Pedido.API
+namespace WSE.Pedidos.API
 {
     public class Program
     {

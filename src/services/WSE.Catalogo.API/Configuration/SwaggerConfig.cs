@@ -14,7 +14,7 @@ namespace WSE.Catalogo.API.Configuration
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
                     Title = "WebStore Enterprise Catalago API",
-                    Description = "Esta API faz parte do projeto Web Story Enterprise Applications.",
+                    Description = "Esta API faz parte do projeto Web Store Enterprise Applications.",
                     Contact = new OpenApiContact() { Name = "Stanley Dias Paulo", Email = "stanley.dias.paulo@gmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
                 });

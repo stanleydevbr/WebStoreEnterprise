@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {}
+    "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {}
   },
   "projects": {
-    "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
+    "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
+        "projectUniqueName": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
         "projectName": "WSE.Core",
-        "projectPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
+        "projectPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\WSE.Core.csproj",
         "packagesPath": "C:\\Users\\stanley.dias\\.nuget\\packages\\",
-        "outputPath": "C:\\DevBr\\WebStoryEnterprise\\src\\building blocks\\WSE.Core\\obj\\",
+        "outputPath": "C:\\DevBr\\WebStoreEnterprise\\src\\building blocks\\WSE.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,6 +55,10 @@
               "target": "Package",
               "version": "[3.1.4, )"
             },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "mediatr": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -75,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
