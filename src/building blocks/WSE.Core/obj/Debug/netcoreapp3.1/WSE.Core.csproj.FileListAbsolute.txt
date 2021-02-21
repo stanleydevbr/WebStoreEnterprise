@@ -14,4 +14,3 @@ C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.csproj.CoreCompileInputs.cache
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.dll
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.pdb
-C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.Core\obj\Debug\netcoreapp3.1\WSE.Core.csprojAssemblyReference.cache

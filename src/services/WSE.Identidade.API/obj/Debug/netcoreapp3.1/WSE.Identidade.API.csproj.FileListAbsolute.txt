@@ -121,6 +121,8 @@ C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -134,13 +136,17 @@ C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -172,7 +178,3 @@ C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\obj\Debug\netcoreapp
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\obj\Debug\netcoreapp3.1\WSE.Identidade.API.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\obj\Debug\netcoreapp3.1\WSE.Identidade.API.pdb
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\obj\Debug\netcoreapp3.1\WSE.Identidade.API.genruntimeconfig.cache
-C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
-C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
-C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.dll
-C:\DevBr\WebStoreEnterprise\src\services\WSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WSE.Pagamentos.WebPag/1.0.0": {
+        "runtime": {
+          "WSE.Pagamentos.WebPag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSE.Pagamentos.WebPag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -10,12 +10,12 @@ C:\DevBr\WebStoryEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcor
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.deps.json
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.dll
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.WebAPI.Core.pdb
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.Core.dll
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.Core.pdb
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csprojAssemblyReference.cache
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.AssemblyInfoInputs.cache
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.AssemblyInfo.cs
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csproj.CopyComplete
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.dll
 C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.pdb
-C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.Core.dll
-C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\bin\Debug\netcoreapp3.1\WSE.Core.pdb
-C:\DevBr\WebStoreEnterprise\src\building blocks\WSE.WebAPI.Core\obj\Debug\netcoreapp3.1\WSE.WebAPI.Core.csproj.CopyComplete

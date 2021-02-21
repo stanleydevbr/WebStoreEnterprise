@@ -97,6 +97,7 @@ namespace WSE.Carrinho.API.Controllers
             await PersistirDados();
             return CustomResponse();
         }
+
         private async Task<CarrinhoCliente> ObterCarrinhoCliente()
         {
             return await _context.CarrinhoCliente

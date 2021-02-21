@@ -1,0 +1,9 @@
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\bin\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.deps.json
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\bin\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\bin\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.pdb
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.csprojAssemblyReference.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.AssemblyInfoInputs.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.AssemblyInfo.cs
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.csproj.CoreCompileInputs.cache
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.dll
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Pagamentos.WebPag\obj\Debug\netcoreapp3.1\WSE.Pagamentos.WebPag.pdb
