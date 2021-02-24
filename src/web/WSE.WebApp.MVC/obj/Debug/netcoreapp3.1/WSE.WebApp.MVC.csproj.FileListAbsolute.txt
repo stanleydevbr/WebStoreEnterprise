@@ -762,3 +762,4 @@ C:\DevBr\WebStoreEnterprise\src\web\WSE.WebApp.MVC\obj\Debug\netcoreapp3.1\WSE.W
 C:\DevBr\WebStoreEnterprise\src\web\WSE.WebApp.MVC\obj\Debug\netcoreapp3.1\WSE.WebApp.MVC.dll
 C:\DevBr\WebStoreEnterprise\src\web\WSE.WebApp.MVC\obj\Debug\netcoreapp3.1\WSE.WebApp.MVC.pdb
 C:\DevBr\WebStoreEnterprise\src\web\WSE.WebApp.MVC\obj\Debug\netcoreapp3.1\WSE.WebApp.MVC.genruntimeconfig.cache
+C:\DevBr\WebStoreEnterprise\src\web\WSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Paginacao\Default.cshtml.g.cs

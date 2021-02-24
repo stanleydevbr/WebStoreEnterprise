@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
 using System;
-using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using WSE.WebApp.MVC.Extensions;
@@ -10,7 +9,7 @@ namespace WSE.WebApp.MVC.Services
 {
     public interface ICatalogoService
     {
-        Task<IEnumerable<ProdutoViewModel>> ObterTodos();
+        Task<PagedViewModel<ProdutoViewModel>> ObterTodos(int pageSize, int pageIndex, string query = null);
         Task<ProdutoViewModel> ObterPorId(Guid id);
     }
     public class CatalogoService : Service, ICatalogoService
@@ -34,13 +33,13 @@ namespace WSE.WebApp.MVC.Services
             return await DeserializarObjetoResponse<ProdutoViewModel>(response);
         }
 
-        public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
+        public async Task<PagedViewModel<ProdutoViewModel>> ObterTodos(int pageSize, int pageIndex, string query = null)
         {
-            var response = await _httpClient.GetAsync("/catalogo/produtos/");
+            var response = await _httpClient.GetAsync($"/catalogo/produtos?ps={pageSize}&page={pageIndex}&q={query}");
 
             TratarErrosResponse(response);
 
-            return await DeserializarObjetoResponse<IEnumerable<ProdutoViewModel>>(response);
+            return await DeserializarObjetoResponse<PagedViewModel<ProdutoViewModel>>(response);
         }
     }
 }

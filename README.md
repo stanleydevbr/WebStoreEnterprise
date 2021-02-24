@@ -76,3 +76,7 @@ Update-Database Voucher -StartupProject WSE.Carrinho.API
 
 #### pode estar diferente do original
 Add-Migration pedidos -StartupProject WSE.Pedidos.API
+
+
+### Instalação do dapper (API Catalago)
+Install-Package dapper 2.0.35

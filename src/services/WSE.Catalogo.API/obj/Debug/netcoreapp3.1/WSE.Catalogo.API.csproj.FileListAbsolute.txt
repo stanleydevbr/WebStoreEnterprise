@@ -77,6 +77,7 @@ C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\WSE.Catalogo.API.runtimeconfig.dev.json
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\WSE.Catalogo.API.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\WSE.Catalogo.API.pdb
+C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\Dapper.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\DevBr\WebStoreEnterprise\src\services\WSE.Catalogo.API\bin\Debug\netcoreapp3.1\MediatR.dll
